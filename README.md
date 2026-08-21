@@ -1,16 +1,14 @@
 # 👋 Olá, eu sou Vítor Santana Feijó
 
 <p align="center">
-  <b>Estudante de Ciência da Computação na UFRGS | Desenvolvedor de Software & Entusiasta de Sistemas</b>
+  <b>Estudante de Ciência da Computação na UFRGS | Desenvolvedor de Software</b>
 </p>
 
 ---
 
 ### 👨‍💻 Sobre mim
 
-Estudante de **Ciência da Computação na Universidade Federal do Rio Grande do Sul (UFRGS)**. Tenho grande interesse no desenvolvimento de software, estruturas de dados, arquitetura de computadores, sistemas operacionais e ciência de dados.
-
-Gosto de entender como a computação funciona desde o baixo nível (microarquitetura, sistemas operacionais e concorrência) até aplicações completas com bancos de dados relacionais, APIs e ferramentas modernas de engenharia de software.
+Estudante de **Ciência da Computação na Universidade Federal do Rio Grande do Sul (UFRGS)**. Tenho grande interesse em como a computação funciona desde o baixo nível (microarquitetura, sistemas operacionais e concorrência) até aplicações completas com bancos de dados relacionais, APIs e ferramentas modernas de engenharia de software.
 
 ---
 
@@ -40,15 +38,6 @@ Implementação de um sistema de arquivos baseado em inodes/blocos com suporte a
 
 ---
 
-### 🎯 Áreas de Interesse
-
-* ⚙️ **Sistemas Operacionais & Concorrência** (IPC, Multithreading, Gerenciamento de Memória)
-* 🏛️ **Arquitetura de Computadores** (RISC-V, gem5, Hierarquia de Caches e Preditores de Desvio)
-* 💻 **Engenharia de Software & Backend** (Java, Spring, Testes Automatizados, Docker)
-* 📊 **Algoritmos, Estruturas de Dados & Ciência de Dados**
-
----
-
 ### 🎓 Formação
 
 * **Bacharelado em Ciência da Computação** — Universidade Federal do Rio Grande do Sul (UFRGS) *(2024 – Presente)*
@@ -59,8 +48,8 @@ Implementação de um sistema de arquivos baseado em inodes/blocos com suporte a
 
 <div align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/v%C3%ADtor-santana-feij%C3%B3-947566397/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vitorsfeijo)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitorsfeijo@gmail.com)
 
 </div>
