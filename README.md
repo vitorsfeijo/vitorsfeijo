@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Vítor Santana Feijó
+<h1 align="center">👋 Olá, eu sou Vítor Santana Feijó</h1>
 
 <p align="center">
   <b>Estudante de Ciência da Computação na UFRGS | Desenvolvedor de Software</b>
